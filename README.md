@@ -26,6 +26,7 @@ A full-stack web developer looking forward to being part of an engineering team 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
 ## Frameworks and Libraries I use
 
 ![Ruby-on-Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -35,6 +36,7 @@ A full-stack web developer looking forward to being part of an engineering team 
 ![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Tools is use
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -43,8 +45,7 @@ A full-stack web developer looking forward to being part of an engineering team 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+## My Stats
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lameck1&show_icons=true&locale=en&layout=compact" alt="lameck1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lameck1&show_icons=true&locale=en" alt="lameck1" /></p>
+![Lameck GitHub Stats](https://github-readme-stats.vercel.app/api?username=lameck1&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lameck1&show_icons=true&locale=en&layout=compact)
