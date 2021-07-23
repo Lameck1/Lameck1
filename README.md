@@ -2,7 +2,7 @@
 
 A full-stack web developer looking forward to being part of an engineering team in a strong tech company focused on building web technology solutions for businesses and the human good. Leading an engineering team one day, and seeing a product launch under my leadership, is a goal I have in mind.
 
-[!Profile Views](https://komarev.com/ghpvc/?username=lameck1&label=Profile%20views&color=0e75b6&style=flat/)
+![Profile Views](https://komarev.com/ghpvc/?username=lameck1&label=Profile%20views&color=0e75b6&style=flat/)
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
@@ -47,5 +47,5 @@ A full-stack web developer looking forward to being part of an engineering team 
 
 ## My Stats
 
-![Lameck GitHub Stats](https://github-readme-stats.vercel.app/api?username=lameck1&show_icons=true&locale=en&theme=onedark)
+![Lameck GitHub Stats](https://github-readme-stats.vercel.app/api?username=lameck1&show_icons=true&locale=en&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lameck1&show_icons=true&locale=en&layout=compact&theme=dark)
