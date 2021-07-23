@@ -48,4 +48,4 @@ A full-stack web developer looking forward to being part of an engineering team 
 ## My Stats
 
 ![Lameck GitHub Stats](https://github-readme-stats.vercel.app/api?username=lameck1&show_icons=true&locale=en&theme=onedark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lameck1&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lameck1&show_icons=true&locale=en&layout=compact&theme=dark)
