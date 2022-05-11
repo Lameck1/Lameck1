@@ -6,7 +6,7 @@ A full-stack web developer looking forward to being part of an engineering team 
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://lameck.me/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://www.lameck.tech/)
 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lameck72@gmail.com)
 
